@@ -1,3 +1,6 @@
 [submodule "ds-random-walks"]
 	path = ds-random-walks
 	url = git@github.com:mapra99/ds-random-walks.git
+[submodule "ds-netflix-movies"]
+	path = ds-netflix-movies
+	url = git@github.com:mapra99/ds-netflix-movies.git
