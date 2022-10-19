@@ -1,0 +1,3 @@
+[submodule "ds-random-walks"]
+	path = ds-random-walks
+	url = git@github.com:mapra99/ds-random-walks.git
